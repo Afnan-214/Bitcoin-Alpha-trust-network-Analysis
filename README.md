@@ -23,7 +23,7 @@ We used the following features in our analysis:
 
 ### Approach
 
-● Network Data Preprocessing and Representation
+● Network Data Preprocessing and Representation <br>
 ● Social Network Analytics Process:
 1. Centrality Measure
 2. Connectivity Analysis
@@ -35,7 +35,7 @@ We used the following features in our analysis:
 ##### Quantifying Social Structure
 
 1. Path Length Analysis (How easily users can connect based on trust?)
-2. Clustering coeffcient (How densely connected is the network?)
+2. Clustering coefficient (How densely connected is the network?)
 
 ##### Interactive Network Representation
 
