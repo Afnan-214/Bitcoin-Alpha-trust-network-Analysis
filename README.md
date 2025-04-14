@@ -39,7 +39,7 @@ We used the following features in our analysis:
 
 ##### Interactive Network Representation
 
-Creating an interactive network visualization using the visNetwork package, where:
+Creating an interactive network visualization using the visNetwork package, where: <br>
 
 ● Node colors: average of incoming ratings (red for negative “distrust” & Blue for
 positive “trust”).
