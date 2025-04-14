@@ -24,11 +24,11 @@ We used the following features in our analysis:
 ### Approach
 
 ● Network Data Preprocessing and Representation
-● Social Network Analytics Process
-○ Centrality Measures
-○ Connectivity Analysis
-○ Special Graphs
-○ Quantifying Social Structure
+● Social Network Analytics Process:
+1. Centrality Measure
+2. Connectivity Analysis
+3. Special Graphs
+4. Quantifying Social Structure
 
 ### My contribution:
 
@@ -40,6 +40,7 @@ We used the following features in our analysis:
 ##### Interactive Network Representation
 
 Creating an interactive network visualization using the visNetwork package, where:
+
 ● Node colors: average of incoming ratings (red for negative “distrust” & Blue for
 positive “trust”).
 
